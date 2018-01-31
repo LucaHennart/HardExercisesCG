@@ -1,2 +1,7 @@
 *.iml
 .idea
+out
+
+# Input Files
+# SuperCalculator
+GrandNombreDeScientifiques.txt
