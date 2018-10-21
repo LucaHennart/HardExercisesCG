@@ -6,3 +6,4 @@ These exercises are available at the [Codingame](https://www.codingame.com) plat
 - Labyrinth
 - SkynetRevolution2
 - SuperCalculator
+- Don't Panic
